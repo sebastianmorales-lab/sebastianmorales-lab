@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**sebastianmorales-lab/sebastianmorales-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi there 👋
 
 I'm **Sebastián Morales Durán**, a Master's student in Cognitive Sciences with a strong background in Biological Sciences. I love analyzing data and solving complex problems using languages like R, Python, and Matlab. I've worked as a teacher and research assistant at the Faculty of Psychology, University of the Republic, where I've gained skills in neuroimaging and cognitive neuroscience. I've also collaborated with the Inter-American Institute on Disability and Inclusive Development, leading educational workshops and promoting inclusion. My passion for innovation and continuous learning drives me to keep growing in my field and apply my knowledge to advance science and technology.
@@ -28,8 +24,14 @@ I'm **Sebastián Morales Durán**, a Master's student in Cognitive Sciences with
 
 ### 🏢 Experience
 
-- **Research Assistant** at the Faculty of Psychology, University of the Republic
-- **Teacher G1** at the Faculty of Psychology, University of the Republic (2024) - **Master's Scholarship Holder** at ANII (2023 - Present) - -- -- 
+- **Research Assistant** at the Faculty of Psychology, University of the Republic (2019 - Present)
+- **Teacher G1** at the Faculty of Psychology, University of the Republic (2024)
+- **Master's Scholarship Holder** at ANII (2023 - Present)
 - **Technical Support Team** at the Inter-American Institute on Disability and Inclusive Development (2017 - 2019)
-### 🎓 Education - **Master's in Cognitive Sciences** - University of the Republic (2022 - 2025) - **Bachelor's in Biological Sciences** - University of the Republic (2015 - 2022)
--->
+
+---
+
+### 🎓 Education
+
+- **Master's in Cognitive Sciences** - University of the Republic (2022 - 2025)
+- **Bachelor's in Biological Sciences** - University of the Republic (2015 - 2022)
