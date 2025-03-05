@@ -25,8 +25,8 @@ I'm **Sebastián Morales Durán**, a Master's student in Cognitive Sciences with
 ### 🏢 Experience
 
 - **Research Assistant** at the Faculty of Psychology, University of the Republic (2019 - Present)
-- **Teacher G1** at the Faculty of Psychology, University of the Republic (2024)
-- **Master's Scholarship Holder** at ANII (2023 - Present)
+- **Teacher G1** at the Faculty of Psychology, University of the Republic (2024 - Present)
+- **Master's Scholarship Holder** at ANII (2023 - 2024)
 - **Technical Support Team** at the Inter-American Institute on Disability and Inclusive Development (2017 - 2019)
 
 ---
