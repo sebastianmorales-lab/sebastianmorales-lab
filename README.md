@@ -33,5 +33,5 @@ I'm **Sebastián Morales Durán**, a Master's student in Cognitive Sciences with
 
 ### 🎓 Education
 
-- **Master's in Cognitive Sciences** - University of the Republic (2022 - 2025)
+- **Master's in Cognitive Sciences** - University of the Republic (2022 - Present)
 - **Bachelor's in Biological Sciences** - University of the Republic (2015 - 2022)
