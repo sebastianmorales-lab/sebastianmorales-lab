@@ -33,5 +33,7 @@ I'm **Sebastián Morales Durán**, a Master's student in Cognitive Sciences with
 
 ### 🎓 Education
 
+- **Diploma in Junior Data Analyst** - Catholic University of Uruguay (2024 - Present)
 - **Master's in Cognitive Sciences** - University of the Republic (2022 - Present)
 - **Bachelor's in Biological Sciences** - University of the Republic (2015 - 2022)
+
