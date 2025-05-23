@@ -25,7 +25,7 @@ I'm **Sebastián Morales Durán**, a Master's student in Cognitive Sciences with
 ### 🏢 Experience
 
 - **Research Assistant** at the Faculty of Psychology, University of the Republic (2019 - Present)
-- **Teacher G1** at the Faculty of Psychology, University of the Republic (2024 - Present)
+- **Teaching Assistant (G1)** at the Faculty of Psychology, University of the Republic (2024 - Present)
 - **Master's Scholarship Holder** at ANII (2023 - 2024)
 - **Technical Support Team** at the Inter-American Institute on Disability and Inclusive Development (2017 - 2019)
 
@@ -33,7 +33,7 @@ I'm **Sebastián Morales Durán**, a Master's student in Cognitive Sciences with
 
 ### 🎓 Education
 
-- **Diploma in Junior Data Analyst** - Catholic University of Uruguay (2024 - Present)
+- **Diploma in Junior Data Analyst** - Catholic University of Uruguay (2024 - 2025)
 - **Master's in Cognitive Sciences** - University of the Republic (2022 - Present)
 - **Bachelor's in Biological Sciences** - University of the Republic (2015 - 2022)
 
